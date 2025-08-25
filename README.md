@@ -14,3 +14,6 @@ See [`progress.md`](progress.md) for daily updates.
 ### 1. Strings
 - [01-reverse-string.js](./problems/string/01-reverse-string.js) – Reverse a string (built-in & loop & recursion)
 - [02-remove-spaces.js](./problems/string/02-remove-spaces.js) – Remove spaces (loop & replace)
+- [03-first-non-repeating-char.js](./problems/string/03-first-non-repeating-char.js) – Find first non-repeating character (Object & Map)
+- [04-word-frequency-counter.js](./problems/string/04-word-frequency-counter.js) – Word frequency counter (Map)
+- [05-check-anagram-sorting.js](./problems/string/05-check-anagram.js) – Check anagram (sorting method)

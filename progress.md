@@ -1,5 +1,12 @@
-📅 Day 1: 2025-08-24    
-Topic: Strings  
-Problems solved:    
-- 01-reverse-string.js (3 solutions)
-- 02-remove-spaces.js (2 solutions)
+**📅 Day 1: 2025-08-24**   
+**Topic:** Strings    
+**Problems solved:**    
+- 01-reverse-string.js (3 solutions)  
+- 02-remove-spaces.js (2 solutions)  
+
+**📅 Day 2: 2025-08-25**    
+**Topic:** Strings   
+**Problems solved:**  
+- 03-first-non-repeating-char.js (2 solutions)  
+- 04-word-frequency-counter.js (1 solution)  
+- 05-check-anagram-sorting.js (1 solution)
