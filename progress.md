@@ -10,3 +10,10 @@
 - 03-first-non-repeating-char.js (2 solutions)  
 - 04-word-frequency-counter.js (1 solution)  
 - 05-check-anagram-sorting.js (1 solution)
+
+**📅 Day 3: 2025-08-26**    
+**Topic:** Strings   
+**Problems solved:**  
+- 05-check-anagram-sorting.js (1 solution)  
+- 06-count-vowels (2 solutions)    
+- 07-count-words (1 solution)
