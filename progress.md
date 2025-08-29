@@ -17,3 +17,9 @@
 - 05-check-anagram-sorting.js (1 solution)  
 - 06-count-vowels (2 solutions)    
 - 07-count-words (1 solution)
+
+**📅 Day 4: 2025-08-29**    
+**Topic:** Strings   
+**Problems solved:**  
+- 08-find-longest-word.js (1 solution)  
+- 09-check-palindrome.js (1 solution)  

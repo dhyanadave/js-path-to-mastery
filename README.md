@@ -19,3 +19,5 @@ See [`progress.md`](progress.md) for daily updates.
 - [05-check-anagram-sorting.js](./problems/string/05-check-anagram.js) – Check anagram (sorting method & Map)
 - [06-count-vowels.js](./problems/string/06-count-vowels.js) - Count vowels in given string (Includes & Set)
 - [07-count-words.js](./problems/string/07-count-words.js) - Count vowels in given string (Using trim, split and filter) 
+- [08-find-longest-word.js](./problems/string/08-find-longest-word.js) - Find the longest word in a sentence  (Using for of loop)
+- [09-check-palindrome.js](./problems/string/09-check-palindrome.js) - Check if a string is a palindrome (Using split, reverse and compare)
