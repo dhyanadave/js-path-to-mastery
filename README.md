@@ -21,3 +21,8 @@ See [`progress.md`](progress.md) for daily updates.
 - [07-count-words.js](./problems/string/07-count-words.js) - Count vowels in given string (Using trim, split and filter) 
 - [08-find-longest-word.js](./problems/string/08-find-longest-word.js) - Find the longest word in a sentence  (Using for of loop)
 - [09-check-palindrome.js](./problems/string/09-check-palindrome.js) - Check if a string is a palindrome (Using split, reverse and compare)
+
+### 2. Arrays
+- [01-reverse-array.js](./problems/array/01-reverse-array.js) – Reverse an array (Built-in reverse & loop from end)
+- [02-find-max-min.js](./problems/array/02-find-max-min.js) – Find max and min in an array (Math.max/min & sort)
+- [03-remove-duplicates.js](./problems/array/03-remove-duplicates.js) – Remove duplicates from an array (Set)

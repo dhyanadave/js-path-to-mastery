@@ -23,3 +23,10 @@
 **Problems solved:**  
 - 08-find-longest-word.js (1 solution)  
 - 09-check-palindrome.js (1 solution)  
+
+## Day 5: 2025-08-29  
+**Topic:** Arrays  
+**Problems solved:**  
+- 01-reverse-array.js (2 solutions)  
+- 02-find-max-min.js (2 solutions)  
+- 03-remove-duplicates.js (1 solution)
